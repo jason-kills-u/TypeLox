@@ -12,20 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/osiolabs/example.git"
+    "url": "https://github.com/jason-kills-u/TypeLox"
   },
-  "author": "Jon Church",
-  "contributors": [
-    {
-      "name": "Amber Matz",
-      "email": "example@example.com",
-      "url": "https://www.osiolabs.com/#team"
-    }
-  ],
+  "author": "Jason-Kills-U",
   "keywords": [
-    "server",
-    "osiolabs",
-    "express",
-    "compression"
+    "language",
+    "jason-kills-u",
+    "craftinginterpreters",
   ]
 }
