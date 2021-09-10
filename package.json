@@ -1,0 +1,31 @@
+{
+  "name": "Type-Lox",
+  "version": "1.0",
+  "description": "An implementation of Lox from craftinginterpreters.com",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "node index.ts",
+    "lint": "eslint **/*.js"
+  },
+  "dependencies": {
+    "eslint": "^7.32.0",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osiolabs/example.git"
+  },
+  "author": "Jon Church",
+  "contributors": [
+    {
+      "name": "Amber Matz",
+      "email": "example@example.com",
+      "url": "https://www.osiolabs.com/#team"
+    }
+  ],
+  "keywords": [
+    "server",
+    "osiolabs",
+    "express",
+    "compression"
+  ]
+}
